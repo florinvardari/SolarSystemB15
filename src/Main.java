@@ -13,5 +13,7 @@ public class Main {
          moon mo=new moon();
          mo.moonSize="12";
          mo.moonTemp="-33";
+         mo.moonLength="8";
+         mo.moonRadius="33";
     }
 }
