@@ -15,5 +15,8 @@ public class Main {
          mo.moonTemp="-33";
          mo.moonLength="8";
          mo.moonRadius="33";
+         saturn s=new saturn();
+         s.season="winter";
+         s.temp="-545464643C";
     }
 }
