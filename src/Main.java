@@ -10,5 +10,10 @@ public class Main {
         Xron.temperature="151421236k";
         Xron.radius="15614643";
         Xron.color="pink";
+         moon mo=new moon();
+         mo.moonSize="12";
+         mo.moonTemp="-33";
+         mo.moonLength="8";
+         mo.moonRadius="33";
     }
 }
